@@ -1,1 +1,2 @@
-# Unit_1_Project
+# Cheaters or Champions?
+This contains a notebook that outlines my methodology for investigating the cheating allegations made agains the 2017 Houston Astros. View the accompanying blog post [here]([GitHub](https://medium.com/@sgreiss92/the-2017-houston-astros-cheaters-or-champions-314580218ab8?source=friends_link&sk=ebf64ffa993857e24660512cbf68a6f7)
